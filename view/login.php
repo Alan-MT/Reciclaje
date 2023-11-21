@@ -14,7 +14,7 @@
         <img src="https://www.simlevante.com/wp-content/uploads/2022/10/waste-management-edited.png" >
     </div>
     <div class="login-content">
-        <form method="POST" action="/controladores/autentication.php">
+        <form method="POST" action="/controladores//autentication.php">
             <img src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png" alt="">
             <h2 class="title">Bienvenido</h2>
             <div class="input-div one">

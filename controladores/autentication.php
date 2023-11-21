@@ -17,7 +17,7 @@
             // Aquí puedes verificar el rol específico del usuario
             if ($rol == 'Administrador') {
                 echo '
-                    <script>window.location = "/view/Reciclo/ingresoReciclaje.php;
+                    <script>;
                     alert("¡BIENVENIDO ADMINISTRADOR!");
                     window.location = "/view/empleado/Listado.php";
                     </script>
